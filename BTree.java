@@ -1,4 +1,9 @@
-// Java program to illustrate the sum of two numbers 
+/*
+Name: Allison Stansberry
+CPT_S 233: Micro Assignment #2
+Date: 10/12/2020
+GIT Repo URL: https://github.com/alliecatstanz34/Stansberry_233_MA2 
+*/
 
 // A BTree 
 class Btree { 
